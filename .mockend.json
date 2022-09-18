@@ -1,26 +1,6 @@
 {
   "User": {
-    "name": {
-      "string": {Abdur Rahman}
-    },
-    "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
-    },
-    "statusMessage": {
-      "string": [
-        "working from home",
-        "watching Netflix"
-      ]
-    },
-    "email": {ar_cse@yahoo.com},
-    "color": {
-      "regexp": "#[0-9A-F]{6}"
-    },
-    "age": {
-      "int": 21
-    },
-    "isPublic": {
-      "boolean": {}
-    }
+    "name": { "string": {} },
+    "email": { "string": {} }
   }
 }
