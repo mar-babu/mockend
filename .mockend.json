@@ -1,6 +1,22 @@
 {
   "User": {
-    "name": { "string": {} },
-    "email": { "string": {} }
+    "name": { "string": "Md. Abdur Rahman" },
+    "email": { "string": "ar_cse@yahoo.com" }
+  },
+  {
+    "name": { "string": "Abdur" },
+    "email": { "string": "arcse3048@gmail.com" }
+  },
+  {
+    "name": { "string": "Admin" },
+    "email": { "string": "admin@gmail.com" }
+  },
+  {
+    "name": { "string": "Sadmin" },
+    "email": { "string": "sadmin@gmail.com" }
+  },
+  {
+    "name": { "string": "Test" },
+    "email": { "string": "test@gmail.com" }
   }
 }
